@@ -1,1 +1,1 @@
-THIS IS A READ ME FILE FOR THE SHELL PERMISSIONS PART OF THE HOLBERTON COURSE
+this is the shell comands part of the blockchaine course
