@@ -1,0 +1,1 @@
+this is project #7 shell variables expansions
