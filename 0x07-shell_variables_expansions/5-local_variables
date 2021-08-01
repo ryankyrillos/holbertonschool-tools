@@ -1,2 +1,2 @@
 #!/bin/bash
-alias allvars=' ( set -o posix; set ) | more'
+set
