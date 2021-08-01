@@ -1,1 +1,1 @@
-this is the git project of the blockchain course
+this is the git part of the blockchain course
